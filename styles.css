@@ -144,6 +144,6 @@ body {
 }
 
 .lista_link a:hover {
-    color: var(--botao-azul);
+    color: hsl(120, 86%, 42%)
 }
     
